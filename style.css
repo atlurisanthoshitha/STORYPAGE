@@ -1,0 +1,32 @@
+body{
+    background-color: pink;
+}
+h1{
+    background-color: palevioletred;
+}
+p{
+    color: black;
+    text-align: justify;
+}
+div{
+    margin: auto;
+    width: max-content;
+   
+}
+.peppa{
+    margin: auto;
+    width: 400px;
+    height: 400px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    color: black;
+}
+#img1{
+    margin: auto;
+    margin-left: 34%;
+    width: 400px;
+    height: 350px;
+}
